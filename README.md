@@ -10,4 +10,8 @@
 - Framework: Spring, MyBatis
 - 
 
-![image](https://user-images.githubusercontent.com/37054073/70534494-8649fd00-1b9e-11ea-86f8-0e821be499d7.png)
+![image](https://user-images.githubusercontent.com/37054073/70534494-8649fd00-1b9e-11ea-86f8-0e821be499d7.png)  
+
+## 실행화면
+![image](https://user-images.githubusercontent.com/37054073/70633638-35a4d380-1c74-11ea-8e4b-62a2b269cc1f.png)
+
