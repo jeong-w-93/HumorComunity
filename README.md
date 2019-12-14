@@ -1,8 +1,8 @@
 # 연습용 게시판
 
 ## 목표
-- Spring Legacy Project를 이용하여 환경설정에 대해 공부
-- 
+- Spring Legacy Project를 이용하여 웹 구조에 대해 공부
+
 
 ## 사용기술
 
