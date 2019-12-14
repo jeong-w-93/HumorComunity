@@ -14,7 +14,7 @@
 - Framework: Spring, MyBatis
 
 
-
+## DB Schema  
 ![image](https://user-images.githubusercontent.com/37054073/70534494-8649fd00-1b9e-11ea-86f8-0e821be499d7.png)  
 
 ## 실행화면
